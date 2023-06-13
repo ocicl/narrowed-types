@@ -1,0 +1,10 @@
+* narrowed-types
+
+Type definitions narrowed with predicates
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jpcima/narrowed-types.git   |
+| commit  | ed7b036  |
+| systems | narrowed-types |
+|---------+-------------------------------------------|
+
