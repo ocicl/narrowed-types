@@ -8,4 +8,4 @@ Type definitions narrowed with predicates
 | systems | narrowed-types |
 |---------+-------------------------------------------|
 
- 
+  
